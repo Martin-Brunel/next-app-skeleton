@@ -1,0 +1,1 @@
+export type ReduxUniversalSetter<T> = (payload: Partial<T>) => void
